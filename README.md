@@ -1,3 +1,3 @@
-Initialisation du repo\n
+**Initialisation du repo**
 Formation PHP niv.2 
-*05->08/12/2022*
+~05->08/12/2022~

@@ -36,7 +36,7 @@ class CompteBancaire
 
 $cptCourant = new CompteBancaire();
 $cptCourant->setType('Courant');
-$cptCourant->setProprietaire('Elon Musk');
+$cptCourant->setProprietaire('John Doe');
 // $cptCourant->setSolde(1000);
 
 
